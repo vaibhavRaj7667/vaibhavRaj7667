@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 
-- 🔭 I’m currently working on [Chat Application](https://github.com/vaibhavRaj7667/Django-DRF-react-chatApplication)
+- 🔭 I’m currently working on [AI resume builder](https://github.com/vaibhavRaj7667/AI-powered-Resume-Builder-)
 
 - 📫 How to reach me **zivaibhav1@gmail.com**
 
