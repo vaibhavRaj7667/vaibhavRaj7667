@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **zivaibhav1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -16,4 +16,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavraj7667&show_icons=true&locale=en&layout=compact" alt="vaibhavraj7667" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavraj7667&show_icons=true&locale=en" alt="vaibhavraj7667" /></p>
+
+## Visitor count
+![Visitor Count](https://count.getloli.com/get/@rinkitadhana?theme=rule34)
+
 
