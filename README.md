@@ -17,7 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavraj7667&show_icons=true&locale=en" alt="vaibhavraj7667" /></p>
 
-## Visitor count
-![Visitor Count](https://count.getloli.com/get/@rinkitadhana?theme=rule34)
+
 
 
