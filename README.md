@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 
-- 🔭 I’m currently working on [AI resume builder](https://github.com/vaibhavRaj7667/AI-powered-Resume-Builder-)
+- 🔭 I’m currently working on [Movie-Reservation-System](https://github.com/vaibhavRaj7667/Movie-Reservation-System)
 
 - 📫 How to reach me **zivaibhav1@gmail.com**
 
