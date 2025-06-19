@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-  <a href="">
+  <a>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python,java,django,react,docker,tailwind,github,fastapi,linux" />
   </a>
 
